@@ -2320,3 +2320,4 @@ $.fn.toggleAttr = function (attr, attr1, attr2) {
     //     AIZ.plugins.bootstrapSelect('refresh');
     // });
 })(jQuery);
+
